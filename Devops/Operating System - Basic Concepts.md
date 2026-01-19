@@ -92,3 +92,61 @@
 * **OS = Manager + Translator**
 * **Core jobs:** Process, Memory, File, I/O
 * **Linux:** Preferred for DevOps & servers
+-------------------------------------------------------------
+**Added only high-value points (commonly asked):**
+
+---
+
+### **Extra Concepts to Add**
+
+* **Kernel vs OS**
+
+  * Kernel = core of OS
+  * OS = kernel + utilities
+
+* **Types of OS**
+
+  * Single-user, Multi-user
+  * Batch, Time-sharing
+  * Real-time
+
+* **Thread vs Process**
+
+  * Thread = lightweight process
+  * Shares memory with process
+
+* **Context Switching**
+
+  * CPU switching between processes.
+
+* **User Mode vs Kernel Mode**
+
+  * User: limited access
+  * Kernel: full hardware access
+
+* **System Calls**
+
+  * Interface between app and OS.
+
+---
+
+### **Extra Interview Questions**
+
+* **Process vs Thread?**
+  Process is heavyweight, thread is lightweight.
+
+* **What is context switching?**
+  CPU switching execution.
+
+* **User mode vs kernel mode?**
+  Safety and control separation.
+
+* **Why Linux preferred in servers?**
+  Stable, secure, customizable.
+
+---
+
+### **Final Tip**
+
+* Link OS answers with **Java + DevOps** (threads, memory, Linux).
+
